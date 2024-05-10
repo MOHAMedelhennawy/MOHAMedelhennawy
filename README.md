@@ -59,7 +59,8 @@
 
 
 
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedelhennawy" alt="mohamedelhennawy" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MOHAMedelhennawy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
   <h3 align="left">Languages and Tools:</h3>
@@ -73,5 +74,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=MOHAMedelhennawy&show_icons=true&theme=tokyonight">
   </div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMedelhennawy&layout=pie&theme=tokyonight">
-#💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
