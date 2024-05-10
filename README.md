@@ -49,7 +49,7 @@
   <p>
   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
     
-  empty
+🔭 I’m currently intern on Alx africa<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
   </p>
 
@@ -70,7 +70,9 @@
 
 
 # 📊 GitHub Stats:
-  <div align='left'>
-    <img src="https://github-readme-stats.vercel.app/api?username=MOHAMedelhennawy&show_icons=true&theme=tokyonight">
-  </div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMedelhennawy&layout=pie&theme=tokyonight">
+
+  <a href="https://github.com/MOHAMedelhennawy"><img alt="Al Siam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MOHAMedelhennawy&show_icons=true&theme=tokyonight" height="192px" width="49.5%"/></a>
+
+  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMedelhennawy&layout=pie&theme=tokyonight" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
