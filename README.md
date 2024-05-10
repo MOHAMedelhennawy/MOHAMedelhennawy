@@ -49,7 +49,7 @@
   <p>
   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
     
-🔭 I’m currently intern on Alx africa<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently intern on Alx africa<br
 
   </p>
 
@@ -89,4 +89,4 @@
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MOHAMedelhennawy&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Elhennawy's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MOHAMedelhennawy&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
