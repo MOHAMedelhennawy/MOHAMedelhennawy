@@ -70,3 +70,5 @@
   ![MOHAMedelhennawy's github stats](https://github-readme-stats.vercel.app/api?username=MOHAMedelhennawy&show_icons=true&theme=tokyonight)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMedelhennawy&theme=tokyonight" alt="mystreak"/>
   ![MOHAMedelhennawy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMedelhennawy&theme=tokyonight&layout=compact)
+
+![MOHAMedelhennawy GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHAMedelhennawy&show_icons=true&theme=radical)
