@@ -68,10 +68,10 @@
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
+# 📊 GitHub Stats:
   <div align='left'>
     <img src="https://github-readme-stats.vercel.app/api?username=MOHAMedelhennawy&show_icons=true&theme=tokyonight">
   </div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMedelhennawy&layout=pie&theme=tokyonight">
-
-    # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MOHAMedelhennawy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+#💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
