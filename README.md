@@ -70,8 +70,9 @@
 
   <div align='left'>
     <img src="https://github-readme-stats.vercel.app/api?username=MOHAMedelhennawy&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMedelhennawy&layout=pie&theme=tokyonight">
   </div>
 
   <div align='right'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMedelhennawy&layout=pie&theme=tokyonight">
+    
   </div>
