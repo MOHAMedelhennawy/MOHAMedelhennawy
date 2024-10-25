@@ -65,7 +65,38 @@
 
 
 # 💻 Tech Stack:
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,jest,prisma,npm,c,py,flask,git,linux,bash,neovim,msql,mongodb,postman,vscode)](https://skillicons.dev)
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50px"></td>
+      <td><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50px"></td>
+      <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50px"></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50px"></td>
+      <td><img src="https://skillicons.dev/icons?i=express" alt="Express" width="50px"></td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="50px"></td>
+      <td><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="50px"></td>
+      <td><img src="https://skillicons.dev/icons?i=npm" alt="NPM" width="50px"></td>
+      <td><img src="https://skillicons.dev/icons?i=c" alt="C" width="50px"></td>
+      <td><img src="https://skillicons.dev/icons?i=py" alt="Python" width="50px"></td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50px"></td>
+      <td><img src="https://skillicons.dev/icons?i=git" alt="Git" width="50px"></td>
+      <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50px"></td>
+      <td><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50px"></td>
+      <td><img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="50px"></td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=msql" alt="MySQL" width="50px"></td>
+      <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50px"></td>
+      <td><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50px"></td>
+      <td><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50px"></td>
+    </tr>
+  </table>
+</p>
+
 
 # 📊 GitHub Stats:
 <p align="center">
