@@ -41,7 +41,7 @@
 
 # 💻 Tech Stack:
 <p align="center">
-  <table>
+  <table align="center"> <!-- إضافة align="center" هنا -->
     <tr>
       <td><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50px"></td>
       <td><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50px"></td>
@@ -71,6 +71,7 @@
     </tr>
   </table>
 </p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MOHAMedelhennawy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
