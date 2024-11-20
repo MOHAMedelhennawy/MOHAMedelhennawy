@@ -39,31 +39,6 @@
   </p>
   <br />
 
-  <!-- About Section -->
-  ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-  <br>
-
-  <p>
-  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-    
-🔭 I’m currently intern on Alx africa<br>
-
-  </p>
-
-  <br/>
-  <br/>
-  <br/>
-
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MOHAMedelhennawy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-
 # 💻 Tech Stack:
 <p align="center">
   <table>
@@ -97,6 +72,8 @@
   </table>
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MOHAMedelhennawy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
 <p align="center">
