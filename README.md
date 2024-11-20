@@ -64,7 +64,7 @@
       <td><img src="https://skillicons.dev/icons?i=vim" alt="Neovim" width="50px"></td>
     </tr>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=msql" alt="mysql" width="50px"></td>
+      <td><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="50px"></td>
       <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50px"></td>
       <td><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50px"></td>
       <td><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50px"></td>
